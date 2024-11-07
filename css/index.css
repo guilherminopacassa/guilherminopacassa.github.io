@@ -1,0 +1,36 @@
+body{
+    background-color:blue;
+}
+
+.header{
+    padding: 20px;
+}
+.links{
+    display: inline;
+    margin-left: 600px;
+}
+.links a{
+    margin-left: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+.links a:hover{
+    color:purple ;
+    border-top: 2px solid purple ;
+    border-bottom: 2px solid purple ;
+}
+.span-1 , .span-2{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.span-1{
+    color: blue;
+}
+
+.span-2{
+    color:blue;
+}
+
+
